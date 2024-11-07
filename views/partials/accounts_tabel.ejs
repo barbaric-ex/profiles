@@ -1,0 +1,33 @@
+<div class="row">
+  <h1 class="display-4">Accounts</h1>
+  <div class="col-10 offset-1">
+    <table class="table table-dark">
+      <thead>
+        <tr>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Deposit</th>
+          <th>Credit Card</th>
+          <th>Profile</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% accounts.forEach(acc => { %>
+
+        <tr>
+          <td><%= acc.firstName %></td>
+          <td><%= acc.lastName %></td>
+          <td><%= acc.deposit %></td>
+          <td><%= acc.creditCard %></td>
+          <td>
+            <a href="/profile/<%=acc.id  %>" class="btn btn-success btn-sm"
+              >Profile</a
+            >
+          </td>
+        </tr>
+
+        <% });%>
+      </tbody>
+    </table>
+  </div>
+</div>

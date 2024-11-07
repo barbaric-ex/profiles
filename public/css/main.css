@@ -1,0 +1,35 @@
+body {
+  background-color: #485a51;
+}
+
+.info_wrapper {
+  background-color: #fff;
+  border-radius: 7px;
+}
+
+.info_wrapper .first {
+  padding: 20px 25px;
+  background-color: rgb(212, 64, 64);
+  color: #fff;
+  border-radius: 7px 7px 0 0;
+}
+
+.info_wrapper .first h5 {
+}
+.info_wrapper h5 {
+  padding: 15px 15px;
+  border-bottom: 1px solid gray;
+  color: gray;
+}
+.info_wrapper h5 span {
+  font-size: 16px;
+  padding: 5px 7px 7px 7px;
+}
+.img_wrap img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.img_wrap a {
+  width: 100%;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Smith",
+    "deposit": 1200.5,
+    "creditCard": "Visa",
+    "createdAt": "2022-01-15T10:30:00Z",
+    "profileInfo": {
+      "age": 34,
+      "gender": "Male",
+      "occupation": "Software Engineer",
+      "city": "New York",
+      "email": "john.smith@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "deposit": 980.75,
+    "creditCard": "MasterCard",
+    "createdAt": "2023-04-20T12:45:00Z",
+    "profileInfo": {
+      "age": 28,
+      "gender": "Female",
+      "occupation": "Graphic Designer",
+      "city": "Los Angeles",
+      "email": "emily.johnson@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "firstName": "Michael",
+    "lastName": "Williams",
+    "deposit": 1450,
+    "creditCard": "American Express",
+    "createdAt": "2021-08-10T15:20:00Z",
+    "profileInfo": {
+      "age": 42,
+      "gender": "Male",
+      "occupation": "Marketing Specialist",
+      "city": "Chicago",
+      "email": "michael.williams@example.com"
+    }
+  },
+  {
+    "id": 5,
+    "firstName": "David",
+    "lastName": "Jones",
+    "deposit": 1100.75,
+    "creditCard": "Discover",
+    "createdAt": "2023-06-22T14:50:00Z",
+    "profileInfo": {
+      "age": 26,
+      "gender": "Male",
+      "occupation": "Project Manager",
+      "city": "Phoenix",
+      "email": "david.jones@example.com"
+    }
+  },
+  {
+    "id": 6,
+    "firstName": "Jessica",
+    "lastName": "Garcia",
+    "deposit": 720.5,
+    "creditCard": "MasterCard",
+    "createdAt": "2021-07-11T13:10:00Z",
+    "profileInfo": {
+      "age": 31,
+      "gender": "Female",
+      "occupation": "Teacher",
+      "city": "Philadelphia",
+      "email": "jessica.garcia@example.com"
+    }
+  },
+  {
+    "id": 7,
+    "firstName": "James",
+    "lastName": "Martinez",
+    "deposit": 1300.25,
+    "creditCard": "Visa",
+    "createdAt": "2020-03-15T16:40:00Z",
+    "profileInfo": {
+      "age": 29,
+      "gender": "Male",
+      "occupation": "Consultant",
+      "city": "San Antonio",
+      "email": "james.martinez@example.com"
+    }
+  },
+  {
+    "id": 8,
+    "firstName": "Megan",
+    "lastName": "Rodriguez",
+    "deposit": 950,
+    "creditCard": "American Express",
+    "createdAt": "2019-12-01T11:15:00Z",
+    "profileInfo": {
+      "age": 45,
+      "gender": "Female",
+      "occupation": "Mechanic",
+      "city": "San Diego",
+      "email": "megan.rodriguez@example.com"
+    }
+  },
+  {
+    "id": 9,
+    "firstName": "Robert",
+    "lastName": "Davis",
+    "deposit": 1850,
+    "creditCard": "Discover",
+    "createdAt": "2023-10-10T09:30:00Z",
+    "profileInfo": {
+      "age": 35,
+      "gender": "Male",
+      "occupation": "Nurse",
+      "city": "Dallas",
+      "email": "robert.davis@example.com"
+    }
+  },
+  {
+    "id": 10,
+    "firstName": "Ashley",
+    "lastName": "Miller",
+    "deposit": 800.75,
+    "creditCard": "Visa",
+    "createdAt": "2020-08-15T10:45:00Z",
+    "profileInfo": {
+      "age": 33,
+      "gender": "Female",
+      "occupation": "Data Analyst",
+      "city": "San Jose",
+      "email": "ashley.miller@example.com"
+    }
+  },
+  {
+    "id": 30,
+    "firstName": "Emma",
+    "lastName": "Lee",
+    "deposit": 1600,
+    "creditCard": "Visa",
+    "createdAt": "2022-11-22T11:15:00Z",
+    "profileInfo": {
+      "age": 27,
+      "gender": "Female",
+      "occupation": "Journalist",
+      "city": "Seattle",
+      "email": "emma.lee@example.com"
+    }
+  }
+]
